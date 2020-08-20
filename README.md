@@ -1,3 +1,3 @@
 # GameBot
- Discord Bot that runs commands such as playing games.
+ Discord Bot that plays games and runs commands.
  Made in Java and uses gradle.
