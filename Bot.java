@@ -1,5 +1,5 @@
 // A simple bot made in JDA 4 originally for HackUNT
-// By Josh Duran and Kenny Ngo
+// By Josh Durana and Kenny Ngo
 // NOTE (for Eclipse users at least): MUST TERMINATE PROGRAM after running it to prevent glitches
 
 package GameBot;
