@@ -21,8 +21,9 @@ public class Bot {
 		CommandClientBuilder client = new CommandClientBuilder();
 		
 		// MY ID
-		client.setOwnerId("678284229230067717");
-		client.setCoOwnerIds("406643596767526933", "238529603814031360", "189941337053724672");
+		// Discord IDs ommited for privacy reasons
+		client.setOwnerId("");
+		client.setCoOwnerIds("", "", "");
 		
 		client.setPrefix("!");
 		client.addCommands(new PingCommand(), new TicTacToeCommand(), new CoinFlipCommand(), new EightBallCommand(), new DiceCommand(), new ShutDownCommand(), new ClearCommand());
