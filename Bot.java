@@ -1,4 +1,4 @@
-// A simple bot made in JDA 4 originally for HackUNT
+// A simple bot made in JDA 4 originally for HackUNT 2020
 // By Josh Durana and Kenny Ngo
 
 package GameBot;
