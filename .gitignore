@@ -1,5 +1,13 @@
-.idea/
 .gradle/
 build/
 
 .env
+
+# Intellij
+.idea/
+
+# Eclipse
+.classpath
+.settings/
+.project
+bin/
